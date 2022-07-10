@@ -20,7 +20,7 @@ Detect the phase of Alzheimer’s Disease from MRI images by multiclass classifi
 
 ADNI(Alzheimer’s Disease Neuroimaging Initiative) dataset:
 
-1920 CN(cognitive normal) / 1210 EMCI(Early mild cognitive impairment) / 699 LMCI(Late mild cognitive impairment) / 899(Alzheimer’s disease)
+CN(cognitive normal) / EMCI(Early mild cognitive impairment) / LMCI(Late mild cognitive impairment) / AD(Alzheimer’s disease)
 
 
 ## Data preprocessing
