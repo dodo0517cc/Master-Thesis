@@ -2,15 +2,24 @@
 
 ## Introduction
 
+1. Alzheimer’s disease is the most common disease of dementia.
+
+2. It is an irreversible and progressive neurodegenerative disease of the brain.
+
+3. There is no cure for AD thus far. 
+
+4. According to the World Health Organization, there were 47.5 million people worldwide with dementia in 2015, with 7.7 million new cases each year.
 
 
 ## Objective
 
 Detect the phase of Alzheimer’s Disease from MRI images by multiclass classification techniques
 
+
 ## Dataset
 
 ADNI(Alzheimer’s Disease Neuroimaging Initiative) dataset:
+
 1920 CN(cognitive normal) / 1210 EMCI(Early mild cognitive impairment) / 699 LMCI(Late mild cognitive impairment) / 899(Alzheimer’s disease)
 
 
@@ -32,9 +41,11 @@ ADNI(Alzheimer’s Disease Neuroimaging Initiative) dataset:
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/77607182/178153903-cef28e62-ea64-42e3-9b03-19260a67bcfb.png">
 
+
 ## Pre-trained MODEL: 
 
 ResNet3D-18
+
 
 ## Methodology: 
 
