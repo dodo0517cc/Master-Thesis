@@ -8,6 +8,12 @@
 
 Detect the phase of Alzheimer’s Disease from MRI images by multiclass classification techniques
 
+## Dataset
+
+ADNI(Alzheimer’s Disease Neuroimaging Initiative) dataset:
+1920 CN(cognitive normal) / 1210 EMCI(Early mild cognitive impairment) / 699 LMCI(Late mild cognitive impairment) / 899(Alzheimer’s disease)
+
+
 ## Data preprocessing
 
 1. Brain extraction
@@ -25,7 +31,6 @@ Detect the phase of Alzheimer’s Disease from MRI images by multiclass classifi
 7. Augmentation (Random Horizontal Flip / Random Noise / Random Bias Field / Random Affine)
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/77607182/178153903-cef28e62-ea64-42e3-9b03-19260a67bcfb.png">
-
 
 ## Pre-trained MODEL: 
 
